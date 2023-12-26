@@ -1,7 +1,7 @@
 This project was carried out as part of the Data Analytics course at the Ironhack programming school.
 The developed work falls within the scope of climate change in Continental Portugal, more specifically, the change of the variables associated with temperature over time.
 
-This analysis used Reanalysis Data that included minimum, average and maximum daily temperatures in 1012 locations in between 1980 and 2021. The goal of the investigation was to analyze the evolution of temperature over that period in several dimensions. For that purpose, the total period of 42 years was divided into two consecutive shorter periods of 21 years to be possible to compare them.
+This analysis used Reanalysis Data that included minimum, average and maximum daily temperatures in 1012 locations in Continental Portugal between 1980 and 2021. The goal of the investigation was to analyze the evolution of temperature over that period in several dimensions. For that purpose, the total period of 42 years was divided into two consecutive shorter periods of 21 years to be possible to compare them.
 
 Among the tasks that constituted the project, some of them are:
 - An evolution analysis of the average daily temperature per period, and the average daily thermal amplitude per year.
